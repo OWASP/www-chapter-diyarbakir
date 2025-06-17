@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Dogan Can Bakir](mailto:dogan.canbakir@owasp.org )
+* [Omar Kurt](mailto:omar.kurt@owasp.org)

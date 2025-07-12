@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Diyarkbakir
-tags: example-tag
+title: OWASP Diyarbakır
+tags: Diyarbakır
 region: Europe
 country: Turkiye
 meetup-group:
@@ -10,7 +10,17 @@ meetup-group:
 ---
 
 ## Welcome
-Include some information here about your chapter
+👋 Welcome to the OWASP Diyarbakir Chapter!
+
+The OWASP Diyarbakir Chapter is an open and inclusive community dedicated to promoting awareness, education, and collaboration around software security in Southeastern Turkey.
+
+Whether you're a developer, researcher, student, or cybersecurity enthusiast — you're welcome here. Our mission is to build a strong local ecosystem where people can learn, share, and grow together through meetups, workshops, CTFs, and open-source contributions.
+
+We are currently building our core team and planning our first events. If you would like to join us, give a talk, or help organize local activities, please reach out — we’d love to hear from you!
+
+Stay tuned for upcoming announcements!
+
+— OWASP Diyarbakir Team
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

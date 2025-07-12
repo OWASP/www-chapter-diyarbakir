@@ -9,8 +9,11 @@ meetup-group:
 
 ---
 
-## Welcome
-👋 Welcome to the OWASP Diyarbakir Chapter!
+![logo](assets/images/logo.jpeg "Owasp Diyarbakir") 
+
+
+
+## 👋 Welcome to the OWASP Diyarbakir Chapter!
 
 The OWASP Diyarbakir Chapter is an open and inclusive community dedicated to promoting awareness, education, and collaboration around software security in Southeastern Turkey.
 

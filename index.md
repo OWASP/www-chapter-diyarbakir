@@ -35,6 +35,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ### Upcoming meetings
 
-Please register for our next meeting at our [meetup group](https://www.meetup.com/owasp-diyarbak-chapter/){:target="_blank"}.
+Please register for our next meeting at our [meetup group](https://www.meetup.com/owasp-diyarbak-chapter/).
 
 {% include chapter_events.html group=page.meetup-group %}

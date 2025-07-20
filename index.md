@@ -4,9 +4,9 @@ title: OWASP Diyarbakır
 tags: appsec-tag
 level: 0
 region: Europe
-meetup-group: OWASP-Diyarbak-Chapter
+meetup-group: OWASP-Diyarbakir-Chapter
 country: Turkiye
-postal-code: 21090
+postal-code: 21100
 
 ---
 

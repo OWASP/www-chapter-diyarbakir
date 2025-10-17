@@ -1,0 +1,30 @@
+community:
+  - name: chapter-diyarbakir
+    platform: slack
+    url: https://owasp.slack.com/archives/C0928GNLCDP
+    description: <https://owasp.org/www-chapter-diyarbakir/>
+leaders:
+  - name: Dogan Can Bakir
+    email: dogancan.bakir@owasp.org
+  - name: Omar Kurt
+    email: omar.kurt@owasp.org
+    github: omarkurt
+location:
+  country: Turkiye
+  country_code: TR
+  region: Türkiye
+  city: Diyarbakır
+  postal_code: '21100'
+  latitude: 37.9162222
+  longitude: 40.2363542
+meetup_group: OWASP-Diyarbakir-Chapter
+name: OWASP Diyarbakır
+repositories:
+  - name: www-chapter-diyarbakir
+    url: https://github.com/OWASP/www-chapter-diyarbakir
+    description: OWASP Foundation web repository
+tags:
+  - appsec-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-diyarbakir
